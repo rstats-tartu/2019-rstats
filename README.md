@@ -47,11 +47,11 @@ Kellaajad oleks 10:15-13 (9:15-12).
 
 Kas **esmaspäev ja teisipäev või reede**
 
-nädal|esmaspäev|teisipäev või reede
------|---------|---------|---|----
-10|4. märts|5. või 8. märts
-11|11. märts|12. või 15. märts
-12|18. märts|19. või 22. märts
+nädal | esmaspäev | teisipäev või reede
+----- | --------- | --------- 
+10 | 4. märts  | 5. või 8. märts
+11 | 11. märts | 12. või 15. märts
+12 | 18. märts | 19. või 22. märts
 
 Õppejõud:
 Taavi Päll, PhD, Tartu Ülikooli Bio- ja siirdemeditsiini instituut. Taavi on pikaajalise R kasutamise ja õpetamise (kursused Tartu Ülikoolis ja TTUs) kogemusega. Tema praegune teadusprojekt on seotud inimese soole viroomi analüüsimisega NGS andmete põhjal, arendab Pythonit ja R-i kasutades bioinformaatilisi töövoogusid.
