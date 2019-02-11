@@ -2,6 +2,8 @@
 
 Eesmärgiks on, et kursusel osaleja oskaks hakata kasutada R keele tööriistu, selleks, et muuta oma toorandmed arusaamiseks ja teadmisteks. Kursusel õpetatakse kuidas andmeid importida, kuidas viia andmed sobiva kujuga tabelisse, tabelis olevaid andmeid summeerida, luua uusi muutujaid ja tulemusi visualiseerida kasutades `tidyverse` tööriistu.
 
+----
+
 The aim of the course is to learn how to start using R to turn raw data into insight and knowledge. You will leran how to import raw data to R, how to rearrange your data suitable for analysis, how to summarise and transform, how to visualise data using `tidyverse` R packages.
 
 #### Tööriistad/Tools
@@ -15,6 +17,7 @@ Töö on kavandatud toimuma Rstudio pilves, kuid siiski on vajalik:
 - **_Github_ konto** https://github.com (jäta salasõna meelde!).
 - **_Rstudio cloud_ konto** https://login.rstudio.cloud/, (logi sisse Githubi kontoga!).
 
+----
 
 - Work is planned to be carried out in RStudio cloud, but you still need to have following software available in your **computer**:
     - **R 3.5.2** (last version) https://cran.r-project.org, 
@@ -31,6 +34,7 @@ Töö on kavandatud toimuma Rstudio pilves, kuid siiski on vajalik:
 - Andmete visualiseerimine kasutades **ggplot2**: ggploti komponeerimine, lihtsamad diagrammid.
 - iseseisev töö 1h
 
+----
 
 - Introduction, setting up RStudio workspace. How to search for R `?help`.
 - Reproducibility, data analysis workflow, version control (git+Github). 
@@ -41,6 +45,7 @@ Töö on kavandatud toimuma Rstudio pilves, kuid siiski on vajalik:
 - Andmete visualiseerimine kasutades ggplot2: andmete grupeerimine joonisel, tulp- ja joondiagrammid, andmete jagmine mitmete pisijooniste vahel, jooniste teemad.
 - iseseisev töö 1h
 
+----
 
 - Data visualisation using **ggplot2**: color, fill, shape aesthetics, more geoms, facetting, themes.
 - homework 1h
@@ -50,6 +55,7 @@ Töö on kavandatud toimuma Rstudio pilves, kuid siiski on vajalik:
 - `%>%` (*pipe*) operaatori kasutamine ja andmete transformeerimise "laused".
 - iseseisev töö 1h
 
+----
 
 - Data transformation using five verbs from **dplyr** package.
 - How to use `%>%` (*pipe*) operator to compose data transformation sentences.
@@ -59,6 +65,8 @@ Töö on kavandatud toimuma Rstudio pilves, kuid siiski on vajalik:
 - Andmete transformeerimine kasutades **dplyr**-i: andmete grupeerimine summeerimiseks ja muteerimiseks.
 - iseseisev töö 1h
 
+----
+
 - Data transformation using **dplyr** package: calculating grouped summaries and mutates.
 - homework 1h
 
@@ -66,6 +74,7 @@ Töö on kavandatud toimuma Rstudio pilves, kuid siiski on vajalik:
 - Eksploratiivne andmeanalüüs: andmete varieeruvus, puuduvad andmed, kovarieeruvus, mudelite kasutamine andmemustrite leidmiseks
 - iseseisev töö 1h
 
+----
 
 - Explorative data analysis: variation, missing observations, covariation, using models to find patterns.
 - homework 1h
@@ -74,6 +83,7 @@ Töö on kavandatud toimuma Rstudio pilves, kuid siiski on vajalik:
 - Andmete importimine R-i (kui jõuab, siis lühidalt ka API-d? ja andmebaasid), andmetabelid (*tibble*) ja korrastatud (*tidy*) andmed, stringid ja kuupäevad. Kui jõuab, siis itereerimine lapply/map funktsioonidega ja `list` tulbad
 - kursusetöö 3h
 
+----
 
 - Importing raw datasets into R, tidy data, working with strings and dates. If time allows, then also lapply/map functions and list columns. 
 - course work 3h
@@ -89,6 +99,7 @@ nädal | esmaspäev | teisipäev või reede
 11 | 11. märts | 12. või 15. märts
 12 | 18. märts | 19. või 22. märts
 
+----
 
 Week | Monday | Tuesday or Friday
 ----- | --------- | --------- 
@@ -100,5 +111,6 @@ Week | Monday | Tuesday or Friday
 Õppejõud/Teacher:
 Taavi Päll, PhD, Tartu Ülikooli Bio- ja siirdemeditsiini instituut. Taavi on pikaajalise R kasutamise ja õpetamise (kursused Tartu Ülikoolis ja TTUs) kogemusega. Tema praegune teadusprojekt on seotud inimese soole viroomi analüüsimisega NGS andmete põhjal, arendab Pythonit ja R-i kasutades bioinformaatilisi töövoogusid.
 
+----
 
 Taavi Päll, PhD, Institute of Biological and Translational Medicine, University of Tartu, Estonia. Taavi is experienced R user and has several years of R stats teaching experience (at University of Tartu and TalTech). His current research project involves quantitative and qualitative analysis of gut virome using NGS data and workflows developed in Python and R.
