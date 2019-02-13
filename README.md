@@ -23,82 +23,71 @@ Töö on kavandatud toimuma Rstudio pilves, kuid siiski on vajalik:
 - **Github account** https://github.com (remember your password!).
 - **Rstudio cloud account** https://login.rstudio.cloud/, (login with your Github account!).
 
-#### Programm/Program
+#### Programm/Curriculum
 
-1) sessioon/class 3h
-- Sissejuhatus R-i, Rstudio töölaua sisseseadmine/tutvustus. `?help` ehk kust otsida abi.
-- Mis on reprodutseeritavus (olen rääkinud sellest tavaliselt lõpus, kuid tegelikult tuleb see kohe üle rääkida) ja andmeanalüüsi töövoog, versioonikontroll (git+github).
-- Andmete visualiseerimine kasutades **ggplot2**: ggploti komponeerimine, lihtsamad diagrammid.
-- iseseisev töö 1h
-
-
-- Introduction, setting up RStudio workspace. How to search for R `?help`.
-- Reproducibility, data analysis workflow, version control (git+Github). 
-- Data visualisation using **ggplot2**: components/layers of ggplot plot, scatterplots.
-- homework 1h
-
-2) sessioon/class 3h
-- Andmete visualiseerimine kasutades ggplot2: andmete grupeerimine joonisel, tulp- ja joondiagrammid, andmete jagmine mitmete pisijooniste vahel, jooniste teemad.
-- iseseisev töö 1h
+1) **Esmasp./Monday, 04. märts/March, 9-12**
+    - Sissejuhatus R-i, Rstudio töölaua sisseseadmine/tutvustus. `?help` ehk kust otsida abi.
+    - Mis on reprodutseeritavus (olen rääkinud sellest tavaliselt lõpus, kuid tegelikult tuleb see kohe üle rääkida) ja andmeanalüüsi töövoog, versioonikontroll (git+github).
+    - Andmete visualiseerimine kasutades **ggplot2**: ggploti komponeerimine, lihtsamad diagrammid.
+    - iseseisev töö 1h
 
 
-- Data visualisation using **ggplot2**: color, fill, shape aesthetics, more geoms, facetting, themes.
-- homework 1h
+    - Introduction, setting up RStudio workspace. How to search for R `?help`.
+    - Reproducibility, data analysis workflow, version control (git+Github). 
+    - Data visualisation using **ggplot2**: components/layers of ggplot plot, scatterplots.
+    - homework 1h
 
-3) sessioon/class 3h
-- Andmete transformeerimine kasutades **dplyr**-i: "5 verbi".
-- `%>%` (*pipe*) operaatori kasutamine ja andmete transformeerimise "laused".
-- iseseisev töö 1h
-
-
-- Data transformation using five verbs from **dplyr** package.
-- How to use `%>%` (*pipe*) operator to compose data transformation sentences.
-- homework 1h
-
-4) sessioon/class 3h
-- Andmete transformeerimine kasutades **dplyr**-i: andmete grupeerimine summeerimiseks ja muteerimiseks.
-- iseseisev töö 1h
-
-- Data transformation using **dplyr** package: calculating grouped summaries and mutates.
-- homework 1h
-
-5) sessioon/class 3h
-- Eksploratiivne andmeanalüüs: andmete varieeruvus, puuduvad andmed, kovarieeruvus, mudelite kasutamine andmemustrite leidmiseks
-- iseseisev töö 1h
+2) **Reede/Friday, 08. märts/March, 9-12**
+    - Andmete visualiseerimine kasutades ggplot2: andmete grupeerimine joonisel, tulp- ja joondiagrammid, andmete jagmine mitmete pisijooniste vahel, jooniste teemad.
+    - iseseisev töö 1h
 
 
-- Explorative data analysis: variation, missing observations, covariation, using models to find patterns.
-- homework 1h
+    - Data visualisation using **ggplot2**: color, fill, shape aesthetics, more geoms, facetting, themes.
+    - homework 1h
 
-6) sessioon/class 3h
-- Andmete importimine R-i (kui jõuab, siis lühidalt ka API-d? ja andmebaasid), andmetabelid (*tibble*) ja korrastatud (*tidy*) andmed, stringid ja kuupäevad. Kui jõuab, siis itereerimine lapply/map funktsioonidega ja `list` tulbad
-- kursusetöö 3h
+3) **Esmasp./Monday, 11. märts/March, 9-12**
+    - Andmete transformeerimine kasutades **dplyr**-i: "5 verbi".
+    - `%>%` (*pipe*) operaatori kasutamine ja andmete transformeerimise "laused".
+    - iseseisev töö 1h
 
 
-- Importing raw datasets into R, tidy data, working with strings and dates. If time allows, then also lapply/map functions and list columns. 
-- course work 3h
+    - Data transformation using five verbs from **dplyr** package.
+    - How to use `%>%` (*pipe*) operator to compose data transformation sentences.
+    - homework 1h
+
+4) **Reede/Friday, 15. märts/March, 9-12**
+    - Andmete transformeerimine kasutades **dplyr**-i: andmete grupeerimine summeerimiseks ja muteerimiseks.
+    - iseseisev töö 1h
+
+    - Data transformation using **dplyr** package: calculating grouped summaries and mutates.
+    - homework 1h
+
+5) **Esmasp./Monday, 18. märts/March, 9-12**
+    - Eksploratiivne andmeanalüüs: andmete varieeruvus, puuduvad andmed, kovarieeruvus, mudelite kasutamine andmemustrite leidmiseks
+    - iseseisev töö 1h
+
+
+    - Explorative data analysis: variation, missing observations, covariation, using models to find patterns.
+    - homework 1h
+
+6) **Reede/Friday, 22. märts/March, 9-12**
+    - Andmete importimine R-i (kui jõuab, siis lühidalt ka API-d? ja andmebaasid), andmetabelid (*tibble*) ja korrastatud (*tidy*) andmed, stringid ja kuupäevad. Kui jõuab, siis itereerimine lapply/map funktsioonidega ja `list` tulbad
+    - kursusetöö 3h
+
+
+    - Importing raw datasets into R, tidy data, working with strings and dates. If time allows, then also lapply/map functions and list columns. 
+    - course work 3h
 
 #### Ajakava/Schedule
-Kellaajad oleks 10:15-13 (9:15-12)/classes will take place 10:15-13 on Monday and on Tuesday or Friday (my preference is Friday).
+> Kellaajad on 9-12/classes will take place 9-12 on Monday and on Friday.
 
-Kas **esmaspäev ja teisipäev või reede**
-
-nädal | esmaspäev | teisipäev või reede
+nädal/Week | esmaspäev/Monday | reede/Friday
 ----- | --------- | --------- 
-10 | 4. märts  | 5. või 8. märts
-11 | 11. märts | 12. või 15. märts
-12 | 18. märts | 19. või 22. märts
-
-
-Week | Monday | Tuesday or Friday
------ | --------- | --------- 
-10 | 4. March  | 5. or 8. March
-11 | 11. March | 12. or 15. March
-12 | 18. March | 19. or 22. March
-
-
+10 | 4. märts/March  | 8. märts
+11 | 11. märts | 15. märts
+12 | 18. märts | 22. märts
+    
 Õppejõud/Teacher:
-Taavi Päll, PhD, Tartu Ülikooli Bio- ja siirdemeditsiini instituut. Taavi on pikaajalise R kasutamise ja õpetamise (kursused Tartu Ülikoolis ja TTUs) kogemusega. Tema praegune teadusprojekt on seotud inimese soole viroomi analüüsimisega NGS andmete põhjal, arendab Pythonit ja R-i kasutades bioinformaatilisi töövoogusid.
+Taavi Päll, PhD, Tartu Ülikooli Bio- ja siirdemeditsiini instituut. Taavi on pikaajalise R kasutamise ja õpetamise (kursused Tartu Ülikoolis ja TTUs) kogemusega. Tema praegune teadusprojekt on seotud inimese soole viroomi analüüsimisega NGS andmete põhjal, arendab Pythonit ja R-i kasutades bioinformaatilisi töövoogusid.   
 
-
-Taavi Päll, PhD, Institute of Biological and Translational Medicine, University of Tartu, Estonia. Taavi is experienced R user and has several years of R stats teaching experience (at University of Tartu and TalTech). His current research project involves quantitative and qualitative analysis of gut virome using NGS data and workflows developed in Python and R.
+Taavi Päll, PhD, Institute of Biological and Translational Medicine, University of Tartu, Estonia. Taavi is experienced R user and has several years of R stats teaching experience (at University of Tartu and TalTech). His current research project involves quantitative and qualitative analysis of gut virome using NGS data and workflows developed in Python and R.  
