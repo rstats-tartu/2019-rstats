@@ -28,21 +28,21 @@ Töö on kavandatud toimuma Rstudio pilves, kuid siiski on vajalik:
 1) **Esmasp./Monday, 04. märts/March, 9-12**
     - Sissejuhatus R-i, Rstudio töölaua sisseseadmine/tutvustus. `?help` ehk kust otsida abi.
     - Mis on reprodutseeritavus (olen rääkinud sellest tavaliselt lõpus, kuid tegelikult tuleb see kohe üle rääkida) ja andmeanalüüsi töövoog, versioonikontroll (git+github).
-    - Andmete visualiseerimine kasutades **ggplot2**: ggploti komponeerimine, lihtsamad diagrammid.
+    - Andmete visualiseerimine kasutades **ggplot2**: ggploti komponeerimine, lihtsamad diagrammid, andmete grupeerimine graafikutel kasutades värvi, suurust ja kuju.
     - iseseisev töö 1h
 
 
     - Introduction, setting up RStudio workspace. How to search for R `?help`.
     - Reproducibility, data analysis workflow, version control (git+Github). 
-    - Data visualisation using **ggplot2**: components/layers of ggplot plot, scatterplots.
+    - Data visualisation using **ggplot2**: components/layers of ggplot plot, scatterplots, aesthetics: color, size, shape.
     - homework 1h
 
 2) **Reede/Friday, 08. märts/March, 9-12**
-    - Andmete visualiseerimine kasutades ggplot2: andmete grupeerimine joonisel, tulp- ja joondiagrammid, andmete jagmine mitmete pisijooniste vahel, jooniste teemad.
+    - Andmete visualiseerimine kasutades ggplot2: andmete esitamine pisijooniste abil, graafikutüüpide kombineerimine, statistiliste kokkuvõtete plottimine.
     - iseseisev töö 1h
 
 
-    - Data visualisation using **ggplot2**: color, fill, shape aesthetics, more geoms, facetting, themes.
+    - Data visualisation using **ggplot2**: facetting, combining different types of geoms, plotting statistical summaries.
     - homework 1h
 
 3) **Esmasp./Monday, 11. märts/March, 9-12**
