@@ -51,7 +51,7 @@ Töö on kavandatud toimuma Rstudio pilves, kuid siiski on vajalik:
     - iseseisev töö 1h
 
 
-    - Data transformation using five verbs from **dplyr** package.
+    - Data transformation using five verbs from **dplyr** package. filter + logical operators and missing values, arrange rows, select columns.
     - How to use `%>%` (*pipe*) operator to compose data transformation sentences.
     - homework 1h
 
