@@ -47,19 +47,20 @@ Töö on kavandatud toimuma Rstudio pilves, kuid siiski on vajalik:
 
 3) **Esmasp./Monday, 11. märts/March, 9-12**
     - Andmete transformeerimine kasutades **dplyr**-i: "5 verbi".
-    - `%>%` (*pipe*) operaatori kasutamine ja andmete transformeerimise "laused".
     - iseseisev töö 1h
 
 
-    - Data transformation using five verbs from **dplyr** package. filter + logical operators and missing values, arrange rows, select columns.
-    - How to use `%>%` (*pipe*) operator to compose data transformation sentences.
+    - Data transformation using five verbs from **dplyr** package. filter + logical operators and missing values, arrange rows, select columns, create new variables with mutate.
+
     - homework 1h
 
 4) **Reede/Friday, 15. märts/March, 9-12**
     - Andmete transformeerimine kasutades **dplyr**-i: andmete grupeerimine summeerimiseks ja muteerimiseks.
+    - `%>%` (*pipe*) operaatori kasutamine ja andmete transformeerimise "laused".
     - iseseisev töö 1h
 
     - Data transformation using **dplyr** package: calculating grouped summaries and mutates.
+    - How to use `%>%` (*pipe*) operator to compose data transformation sentences.
     - homework 1h
 
 5) **Esmasp./Monday, 18. märts/March, 9-12**
