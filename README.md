@@ -79,8 +79,8 @@ Töö on kavandatud toimuma Rstudio pilves, kuid siiski on vajalik:
     - Importing raw datasets into R, tidy data, working with strings and dates. If time allows, then also lapply/map functions and list columns. 
     - course work 3h
 
-#### Ajakava/Schedule
-> Kellaajad on 9-12/classes will take place 9-12 on Monday and on Friday.
+#### Timing and location
+> Kellaajad on 9-12/classes will take place **9-12 on Monday and on Friday**, room **SCI-059**.
 
 nädal/Week | esmaspäev/Monday | reede/Friday
 ----- | --------- | --------- 
