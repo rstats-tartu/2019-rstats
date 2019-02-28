@@ -23,7 +23,7 @@ Töö on kavandatud toimuma Rstudio pilves, kuid siiski on vajalik:
 - **Github account** https://github.com (remember your password!).
 - **Rstudio cloud account** https://login.rstudio.cloud/, (login with your Github account!).
 
-#### Programm/Curriculum
+#### Programm/Syllabus
 
 1) **Esmasp./Monday, 04. märts/March, 9-12**
     - Sissejuhatus R-i, Rstudio töölaua sisseseadmine/tutvustus. `?help` ehk kust otsida abi.
