@@ -55,31 +55,44 @@ Töö on kavandatud toimuma Rstudio pilves, kuid siiski on vajalik:
     - homework 1h
 
 4) **Reede/Friday, 15. märts/March, 9-12**
-    - Andmete transformeerimine kasutades **dplyr**-i: andmete grupeerimine summeerimiseks ja muteerimiseks.
+    - Andmete transformeerimine kasutades **dplyr**-i: andmete muteerimine ja selleks kasutatavad funktsioonid.
     - `%>%` (*pipe*) operaatori kasutamine ja andmete transformeerimise "laused".
-    - iseseisev töö 1h
+    - iseseisev töö 1h: kuupäevad ja kellaajad kasutades lubridate paketti 
 
-    - Data transformation using **dplyr** package: calculating grouped summaries and mutates.
+    - Data transformation using **dplyr** package: data mutating and useful mutating functions.
     - How to use `%>%` (*pipe*) operator to compose data transformation sentences.
-    - homework 1h
+    - homework 1h: dates and times with lubridate package.
 
 5) **Esmasp./Monday, 18. märts/March, 9-12**
-    - Eksploratiivne andmeanalüüs: andmete varieeruvus, puuduvad andmed, kovarieeruvus, mudelite kasutamine andmemustrite leidmiseks
+    - Andmete grupeerimine ja summeerimine, andmete importimine tekstifailidest ja exceli failidest
     - iseseisev töö 1h
 
 
-    - Explorative data analysis: variation, missing observations, covariation, using models to find patterns.
+    - Data grouping and grouped summaries, data import from text and excel files.
     - homework 1h
 
 6) **Reede/Friday, 22. märts/March, 9-12**
-    - Andmete importimine R-i (kui jõuab, siis lühidalt ka API-d? ja andmebaasid), andmetabelid (*tibble*) ja korrastatud (*tidy*) andmed, stringid ja kuupäevad. Kui jõuab, siis itereerimine lapply/map funktsioonidega ja `list` tulbad
-    - kursusetöö 3h
+    - Korrastatud andmed, andmetabelite formaatimine laiast pikaks ja vastupidi. Tabelite liitmine üle ridade ja tulpade ning muutuja-põhine liitmine kasutades *join*-e. 
+    - kodutöö 1h
 
 
-    - Importing raw datasets into R, tidy data, working with strings and dates. If time allows, then also lapply/map functions and list columns. 
-    - course work 3h
+    - Tidy data, formatting data frames from wide to long format. Binding data frames by rows and columns and data frame merging by join-s. 
+    - homework 1h
+
+7) **Esmasp./Monday, 25. märts/March, 9-12**
+
+    - Itereerimine kasutades map funktsioone, *list* tulbad, lineaarne mudel ja mudeli *fittimine*.
+    
+    - Iterating with map function, list columns in data frame, linear model and fitting linear models. Broom package.
+    
+8) **Reede/Friday, 29. märts/March, 9-12**
+
+    - Grupitöö: andmeanalüüs kasutades ette antud andmeid.
+    
+    - Groupwork: data analysis using provided dataset.
 
 #### Timing and location
+
 > Kellaajad on 9-12/classes will take place **9-12 on Monday and on Friday**, room **SCI-059**.
 
 nädal/Week | esmaspäev/Monday | reede/Friday
@@ -87,6 +100,7 @@ nädal/Week | esmaspäev/Monday | reede/Friday
 10 | 4. märts/March  | 8. märts
 11 | 11. märts | 15. märts
 12 | 18. märts | 22. märts
+13 | 25. märts | 29. märts
     
 Õppejõud/Teacher:
 Taavi Päll, PhD, Tartu Ülikooli Bio- ja siirdemeditsiini instituut. Taavi on pikaajalise R kasutamise ja õpetamise (kursused Tartu Ülikoolis ja TTUs) kogemusega. Tema praegune teadusprojekt on seotud inimese soole viroomi analüüsimisega NGS andmete põhjal, arendab Pythonit ja R-i kasutades bioinformaatilisi töövoogusid.   
