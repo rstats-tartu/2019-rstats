@@ -90,7 +90,7 @@ nädal/Week | teisip./Tue (Nooruse 1-121) | kolmap./Wed (Ostwaldi 1-B103)
 -------| ------------- | --------- 
 38 (3) | 17. sept/Sep  | 18. sept/Sep
 39 (4) | 24. sept/Sep  | 25. sept/Sep
-40 (5) | 1. okt/Oct    | 2. okt/Oct
+40 (5) | 1. okt/Oct    | 2. okt/Oct (Ostwaldi 1-A106)
 41 (6) | 8. okt/Oct    | 9. okt/Oct
 42 (7) | 15. okt/Oct   | 16. okt/Oct
 43 (8) | 22. okt/Oct   | 23. okt/Oct
