@@ -9,16 +9,16 @@ The aim of the course is to learn how to start using R to turn raw data into ins
 Töö on kavandatud toimuma Rstudio pilves, kuid siiski on vajalik:
 
 - internetiühendusega süle**arvuti** olemasolu, kuhu on installeeritud
-    - **R 3.5.2** (viimane versioon) https://cran.r-project.org, 
-    - **RStudio 1.1.463** (desktop viimane versioon) https://www.rstudio.com/products/rstudio/download/, 
+    - **R 3.6.1** ("Action of the Toes") https://cran.r-project.org, 
+    - **RStudio 1.2.1335** (desktop viimane versioon) https://www.rstudio.com/products/rstudio/download/, 
     - **git** https://git-scm.com/book/en/v2/Getting-Started-Installing-Git.
 - **_Github_ konto** https://github.com (jäta salasõna meelde!).
 - **_Rstudio cloud_ konto** https://login.rstudio.cloud/, (logi sisse Githubi kontoga!).
 
 
 - Work is planned to be carried out in RStudio cloud, but you still need to have following software available in your **computer**:
-    - **R 3.5.2** (last version) https://cran.r-project.org, 
-    - **RStudio 1.1.463** (desktop last version) https://www.rstudio.com/products/rstudio/download/, 
+    - **R 3.6.1** ("Action of the Toes") https://cran.r-project.org, 
+    - **RStudio 1.2.1335** (desktop last version) https://www.rstudio.com/products/rstudio/download/, 
     - **git** https://git-scm.com/book/en/v2/Getting-Started-Installing-Git.
 - **Github account** https://github.com (remember your password!).
 - **Rstudio cloud account** https://login.rstudio.cloud/, (login with your Github account!).
