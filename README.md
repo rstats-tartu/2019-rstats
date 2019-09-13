@@ -4,6 +4,11 @@ Eesmärgiks on, et kursusel osaleja oskaks hakata kasutada R keele tööriistu, 
 
 The aim of the course is to learn how to start using R to turn raw data into insight and knowledge. You will learn how to import raw data to R, how to rearrange your data suitable for analysis, how to summarise and transform, how to visualise data using `tidyverse` R packages.
 
+
+This year our examples are mainly centered around hip fractures dataset https://github.com/rstats-tartu/hip-fractures.
+
+> If you have specific things you would like to learn to do in R, please let us know. Also, if you have specific problems with your datasets that you would like to solve, maybe we can do this in class as an excersise. If you have anything like that, we would appreciate if you write to us even this week, so that we can prepare this stuff for class.
+
 ## Tööriistad/Tools
 
 Töö on kavandatud toimuma Rstudio pilves, kuid siiski on vajalik:
