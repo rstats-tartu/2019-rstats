@@ -30,8 +30,16 @@ Töö on kavandatud toimuma Rstudio pilves, kuid siiski on vajalik:
 
 ## Programm/Syllabus
 
+Iga sessioon on jaotatud kaheks:
+    - esimeses pooles vaatame süstemaatiliselt läbi *tidy* R andmeanalüüsi tööriistad ja 
+    - teises pooles tegeleme praktilise andmeanalüüsiga kasutades peamiselt https://github.com/rstats-tartu/hip-fractures andmeid.
+
+Each session is divided into two parts,
+    - in the first half, we go systematically through tidy R data analysis tools and
+    - second half is dedicated to practical data analysis mainly using https://github.com/rstats-tartu/hip-fractures dataset.
+
 1) **Week 3, 17/18. sept/Sep, 14.15-17**
-    
+
     - Sissejuhatus R-i, Rstudio töölaua sisseseadmine/tutvustus. `?help` ehk kust otsida abi.
     - Sissejuhatus baas R-i.
     - Mis on reprodutseeritavus (olen rääkinud sellest tavaliselt lõpus, kuid tegelikult tuleb see kohe üle rääkida) ja andmeanalüüsi töövoog, versioonikontroll (git+github).
@@ -40,7 +48,6 @@ Töö on kavandatud toimuma Rstudio pilves, kuid siiski on vajalik:
     - Introduction, setting up RStudio workspace. How to search for R `?help`.
     - Introduction to base R.
     - Introduction to reproducibility, data analysis workflow, version control (git+Github). 
-    
 
 2) **Week 4, 24/25. sept/Sep, 14.15-17**
 
