@@ -1,0 +1,22 @@
+Dear data analysis course participant,
+
+please follow this link https://github.com/rstats-tartu/2019-rstats to find course program on Github and list of required software. 
+
+
+Briefly, list of software that you need to install to participate in a course efficiently: 
+
+Work is planned to be carried out in RStudio cloud, but you still need to have following software available in your computer:
+
+1. R 3.6.1 ("Action of the Toes") https://cran.r-project.org,
+2. RStudio 1.2.1335 (desktop last version) https://www.rstudio.com/products/rstudio/download/,
+3. git https://git-scm.com/book/en/v2/Getting-Started-Installing-Git.
+4. Github account https://github.com (remember your password!).
+5. Rstudio cloud account https://login.rstudio.cloud/, (login with your Github account!).
+
+I will also send later invitations to Rstats Tartu organisation on Github and Rstudio cloud workspace.
+
+Best regards,
+Taavi Päll
+Ülo Maiväli
+
+P.S this email was sent using R.
