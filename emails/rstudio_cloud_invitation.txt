@@ -1,0 +1,11 @@
+Dear data analysis course participant,
+
+please join course workspace on Rstudio Cloud by using following link https://rstudio.cloud/spaces/30222/join?access_code=TGIyO1Rrjsrwexi%2B6ZxlPGR7CUg06cYzjLF7OMqy
+
+If you prefer, you can always work on your own computer provided that you get all neccessary software working seamlessy.
+
+Some excercises will need Stan-mc to run Bayesian model fitting. As in Rstudio Cloud free tier the available computing resources are limited (1GB ram) we are not able to compile Stan models in the cloud, therefore it is recommended that you install RStan locally into your computer, please follow this link for detailed instructions: https://github.com/stan-dev/rstan/wiki/RStan-Getting-Started. Stan installation might be tricky, so it's OK if you not succeed in the first try.
+
+Best regards,
+Taavi Päll
+Ülo Maiväli
